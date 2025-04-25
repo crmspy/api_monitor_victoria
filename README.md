@@ -20,12 +20,6 @@ node tools push-api.js
 5. Open Grafana at http://localhost:3001/
 victoria monitoring dashboard.json
 
-# 📊 Grafana Dashboard Setup for API Push Monitoring
-
-This document explains how to import and use the Grafana dashboard provided for visualizing API metrics pushed to **VictoriaMetrics**.
-
----
-
 ## 🧾 Dashboard Import Instructions
 
 ### 1. Open Grafana
